@@ -80,6 +80,9 @@ const SignInForm = () => {
             </div>
           )}
         </form>
+        <p className='mt-4 text-center'>
+          Use email: <b>tester@gmail.com</b> password: <b>12345678</b>
+        </p>
       </CardContent>
     </Card>
   );
